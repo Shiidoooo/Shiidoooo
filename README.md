@@ -31,7 +31,7 @@
 
 ```javascript
 const shiido = {
-  name        : "Shiidoooo",
+  name        : "Josh Ziemenn Tan",
   role        : "Full Stack Developer",
   education   : "4th Year BSIT Student",
   philosophy  : "Build fast. Ship clean. Never stop learning.",

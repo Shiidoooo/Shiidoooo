@@ -3,7 +3,7 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shiidoooo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%204th%20Year%20BSIT%20Student&descSize=18&descAlignY=55&descColor=88ccff"/>
 
-<!-- TOHKA AT THE TOP CENTER -->
+<!-- TOHKA TOP CENTER -->
 <img src="https://media4.giphy.com/media/G4FXmolmlyCzK/giphy.gif" width="280"/>
 
 <br/>
@@ -29,8 +29,7 @@
 
 ## ⚡ About Me
 
-<!-- KURUMI ON THE RIGHT, TEXT ON THE LEFT -->
-<img align="right" src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="220"/>
+<img align="right" src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="200"/>
 
 ```javascript
 const shiido = {
@@ -102,38 +101,16 @@ const shiido = {
 
 <div align="center">
 <sub>See what I've been actively working on:</sub>
-</div>
+<br/><br/>
+
+<!-- STREAK - reliable source -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- ROW 1: Core Stats + Streak side by side -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shiidoooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF"/>
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    </td>
-  </tr>
-</table>
-
-<!-- ROW 2: Languages + Osaragi floating right -->
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiidoooo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00D9FF"/>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media0.giphy.com/media/eV5VkJ2PTAlFimEuWe/giphy.gif" width="220"/>
-      <br/><sub><i>keep going 🌸</i></sub>
-    </td>
-  </tr>
-</table>
-
-<!-- ROW 3: Contribution Graph full width -->
-<div align="center">
+<!-- CONTRIBUTION GRAPH - different reliable source -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiidoooo&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=ffffff"/>
+
 </div>
 
 ---

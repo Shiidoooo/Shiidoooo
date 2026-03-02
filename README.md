@@ -29,8 +29,6 @@
 
 ## ⚡ About Me
 
-<img align="right" src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="200"/>
-
 ```javascript
 const shiido = {
   name        : "Josh Ziemenn Tan",
@@ -42,8 +40,6 @@ const shiido = {
   available   : true
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -101,17 +97,51 @@ const shiido = {
 
 <div align="center">
 <sub>See what I've been actively working on:</sub>
-<br/><br/>
-
-<!-- STREAK - reliable source -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH - different reliable source -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiidoooo&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=ffffff"/>
+<!-- ROW 1: Core Stats + Commit Streak -->
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border-color:#21262d">
+  <thead>
+    <tr>
+      <th align="center" width="50%">Core Stats</th>
+      <th align="center" width="50%">Commit Streak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="100%" src="https://github-stats-alpha.vercel.app/api?username=Shiidoooo&cc=0d1117&tc=00D9FF&ic=ffffff&bc=21262d"/>
+      </td>
+      <td align="center">
+        <img width="100%" src="https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
+<br/>
+
+<!-- ROW 2: Most Used Languages + 31-Day Activity Graph -->
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border-color:#21262d">
+  <thead>
+    <tr>
+      <th align="center" width="35%">Most Used Languages</th>
+      <th align="center" width="65%">31-Day Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiidoooo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00D9FF"/>
+      </td>
+      <td align="center">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiidoooo&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=ffffff"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

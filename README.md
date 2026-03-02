@@ -3,10 +3,25 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shiidoooo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%204th%20Year%20BSIT%20Student&descSize=18&descAlignY=55&descColor=88ccff"/>
 
-<!-- GIF -->
-<img src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="260" style="border-radius:12px"/>
+<!-- THREE GIFs ROW -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media0.giphy.com/media/eV5VkJ2PTAlFimEuWe/giphy.gif" width="200" style="border-radius:12px"/>
+      <br/><sub><b>Osaragi</b></sub>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="220" style="border-radius:12px"/>
+      <br/><sub><b>✦ Kurumi ✦</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media4.giphy.com/media/G4FXmolmlyCzK/giphy.gif" width="200" style="border-radius:12px"/>
+      <br/><sub><b>Tohka</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <!-- ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shiidoooo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;4th+Year+BSIT+Student+%F0%9F%8E%93;Web+%2B+Mobile+%2B+Backend+Dev;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
@@ -97,22 +112,7 @@ const shiido = {
 
 <div align="center">
 
-<!-- Using githubstats.me as reliable alternative -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiidoooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiidoooo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shiidoooo&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

@@ -62,6 +62,8 @@ const shiido = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -95,20 +97,30 @@ const shiido = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiidoooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiidoooo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- Using githubstats.me as reliable alternative -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiidoooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiidoooo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shiidoooo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shiidoooo&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
 ## 🧠 Dev Philosophy
+
+<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -121,6 +133,8 @@ const shiido = {
 │                                                  │
 └──────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 

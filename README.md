@@ -1,84 +1,127 @@
-# 🌌 Hi, I'm Shiido
+<div align="center">
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGswN3N4cnZwbTV6M2xjbGVlZWszZHIwOTdtNTZybWNkbWxxbzFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDOewo3hk5trvRjAIX/giphy.gif" width="280" />
 
+<br/>
 
-<p align="center">
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        shiido  ·  Full Stack Developer               ║
+║        "Code is poetry written in logic."            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm56emZqZzRocXh6ZTVoZzR6ZTVoZzR6ZTVoZzR6ZTVoZzR6ZTVoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L872fORU6c27C/giphy.gif" width="400" alt="Shiido Itsuka">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%2B+Backend+%2B+Everything+in+Between;Building+things+that+matter.;Turn+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
-</p>
+<br/>
 
+> *"The best code is no code at all. The second best is clean, readable, and purposeful."*
 
-
-<p align="center">
-
-  <b>Full Stack Developer | Code Strategist</b>
-
-</p>
-
-
-
----
-
-
-
-### 🚀 Tech Arsenal
-
-
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mongodb,express,react,nodejs,cpp,java,py&perline=7" />
-
-</p>
-
-
+</div>
 
 ---
 
+## ⚡ About Me
 
-
-### 📂 Proficiency breakdown
-
-
-
-| Field | Technologies |
-
-| :--- | :--- |
-
-| **Web Core** | HTML5, CSS3, JavaScript, TypeScript |
-
-| **Frameworks** | Laravel, React, Node.js, Express |
-
-| **Systems** | C++, Java, Python |
-
-| **Data Architecture** | MySQL, Oracle, MongoDB, SQL Server |
-
-
+```javascript
+const shiido = {
+  role        : "Full Stack Developer",
+  philosophy  : "Build fast. Ship clean. Never stop learning.",
+  currentMood : "Debugging... always debugging.",
+  hobbies     : ["Coding", "Problem Solving", "Breaking things (to fix them)"],
+  available   : true
+};
+```
 
 ---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
-### 📫 Reach Out
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="left">
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-  <a href="https://github.com/Shiidoooo">
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-  </a>
-
-</p>
-
-
+</div>
 
 ---
 
-<p align="center">
+## 📊 GitHub Stats
 
-  <i>"The world is not something you just observe, it is something you change."</i>
+<div align="center">
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiido&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shiido&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🧠 Dev Philosophy
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   01. Write code for humans first, machines second.     │
+│   02. If it works, don't touch it. (Just kidding — refactor.)│
+│   03. Every bug is a lesson in disguise.                │
+│   04. Simple solutions beat clever ones.                │
+│   05. Ship it. Iterate. Ship it again.                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiido)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiido)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://shiido.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Not all those who wander are lost — but I'm probably just lost in my code editor."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=shiido&color=00d9ff&style=flat-square&label=Profile+Views)
+
+<sub>✦ Built with 💻 + ☕ by shiido ✦</sub>
+
+</div>

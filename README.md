@@ -1,23 +1,27 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGswN3N4cnZwbTV6M2xjbGVlZWszZHIwOTdtNTZybWNkbWxxbzFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDOewo3hk5trvRjAIX/giphy.gif" width="280" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shiidoooo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%204th%20Year%20BSIT%20Student&descSize=18&descAlignY=55&descColor=88ccff"/>
+
+<!-- GIF -->
+<img src="https://media.giphy.com/media/rDOewo3hk5trvRjAIX/giphy.gif" width="260" style="border-radius:12px"/>
+
+<br/><br/>
+
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shiidoooo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;4th+Year+BSIT+Student+%F0%9F%8E%93;Web+%2B+Mobile+%2B+Backend+Dev;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        Shiidoooo  ·  Full Stack Developer            ║
-║        "Code is poetry written in logic."            ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<!-- BADGES -->
+![Student](https://img.shields.io/badge/4th%20Year-BSIT%20Student-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Developer](https://img.shields.io/badge/Full%20Stack-Developer-00D9FF?style=for-the-badge&logo=code&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%2B+Backend+%2B+Mobile;Building+things+that+matter.;Turn+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+<br/><br/>
 
-<br/>
-
-> *"The best code is no code at all. The second best is clean, readable, and purposeful."*
+> ### *"Code is poetry written in logic."*
+> *The best code is no code at all — the second best is clean, readable, and purposeful.*
 
 </div>
 
@@ -27,9 +31,11 @@
 
 ```javascript
 const shiido = {
+  name        : "Shiidoooo",
   role        : "Full Stack Developer",
+  education   : "4th Year BSIT Student",
   philosophy  : "Build fast. Ship clean. Never stop learning.",
-  currentMood : "Debugging... always debugging.",
+  currentMood : "Debugging... always debugging. 🐛",
   stack       : ["Web", "Mobile", "Backend", "Databases"],
   available   : true
 };
@@ -67,6 +73,19 @@ const shiido = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔧 Tools & Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
@@ -110,18 +129,16 @@ const shiido = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiidoooo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiido)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://shiido.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shiido)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-```
-"Not all those who wander are lost — but I'm probably just lost in my code editor."
-```
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shiidoooo&color=00d9ff&style=flat-square&label=Profile+Views)
 

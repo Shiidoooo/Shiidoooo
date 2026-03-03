@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shiidoooo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;4th+Year+BSIT+Student+%F0%9F%8E%93;Web+%2B+Mobile+%2B+Backend+Dev;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Shiidoooo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;4th+Year+BSIT+Student+%F0%9F%8E%93;Web+%2B+Mobile+%2B+Backend+Dev;No+Execuse+Just+Commits+%E2%98%95)](https://git.io/typing-svg)
 
 <br/>
 
